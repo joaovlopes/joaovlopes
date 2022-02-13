@@ -11,7 +11,6 @@ I'm João Victor, i'm currently studying front-end development.
 <div>
   <a href="https://github.com/joaovlopes">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovlopes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovlopes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div align='center' style="display: inline_block"><br>
