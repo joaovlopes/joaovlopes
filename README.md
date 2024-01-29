@@ -1,31 +1,26 @@
-Hello! 
+Olá! 
 
-I'm João Victor, i'm currently studying front-end development.
+Eu sou João Lopes, desenvolvedor front-end.
 
-- 👨🏻‍💻 I'm interested in becoming a developer
-- 📚 I’m currently learning HTML, CSS/SASS, TypeScript and React
-- 🎓 Future systems analyst
+- 👨🏻‍💻 Atualmente trasbalho com AngularJs, React e NextJs
+- 📚 Gosto de estudar novas funcionalidades e tecnologias novas
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 
 ##
 
-<div>
-  <a href="https://github.com/joaovlopes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaovlopes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
 <div align='center' style="display: inline_block"><br>
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Icon-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="AngularJs" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img title="React" align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="Next" align="center" alt="Icon-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />        
+  <img title="TypeScript" align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img title="BootStrap" align="center" alt="Icon-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img title="Tailwind" align="center" alt="Icon-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="Saas" align="center" alt="Icon-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  </div>
  
  ##
   
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/jotav02_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovlopesmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaovlopesmartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
