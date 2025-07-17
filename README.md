@@ -13,7 +13,6 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
-<br>
 
 <img src="https://raw.githubusercontent.com/joaovlopes/joaovlopes/output/snake.svg" alt="Snake animation" />
 
