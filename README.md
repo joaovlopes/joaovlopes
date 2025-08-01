@@ -1,5 +1,5 @@
-#  👨‍💻 Olá, eu sou o João Victor!
-<p align="left">Desenvolvedor Front-End em formação | Apaixonado por tecnologia e interfaces incríveis 🚀</p>
+#  🌍 Olá, eu sou o João Victor!
+<p align="left">Engenheiro de Software em formação | Apaixonado por tecnologia e interfaces incríveis 🚀</p>
 
 ## Sobre mim
 
@@ -8,7 +8,7 @@
  Tenho focado meus estudos em <strong>AngularJs</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada como Desenvolvedor de sistemas.
 </p>
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduando em Engenharia de Software.
 - 📚 Estudando JavaScript, AngularJS, NodeJs, e desenvolvimento fullstack.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
@@ -62,7 +62,7 @@ exemplo:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou focado no desenvolvimento front-end, com experiência prática em Angular e React.js.
+  Sou estudante de Engenharia de Software e atualmente estou focado no desenvolvimento front-end, com experiência prática em Angular e React.js.
 
   Tenho buscado aprimorar meus conhecimentos em tecnologias modernas como TypeScript, JavaScript, HTML, CSS e consumo de APIs REST, além de explorar conceitos de análise de dados e versionamento com Git.
   
